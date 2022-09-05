@@ -1,4 +1,6 @@
-Burrow - это программа мониторинга для Apache Kafka, которая предоставляет [consumer lag checking как service]
+Burrow - это программа мониторинга для Apache Kafka,   
+которая предоставляет [consumer lag checking как service]  
+Проверка как лагает Kafka (consumer lag checking as a service)  
 
 # Burrow - Kafka Consumer Lag Checking
 
